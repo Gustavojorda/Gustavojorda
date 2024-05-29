@@ -1,6 +1,13 @@
-## Hi there 👋
+### Boas vindas ao meu perfil :blue_heart
 
-<!--
+### Gustavo Jordao
+- Estou estudando na Alura (https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+  ### Pode entrar em contato comigo
+  00001116132667SP@al.educacao.sp.gov.br
+  @GustavoJordao
+
 **Gustavojorda/Gustavojorda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
